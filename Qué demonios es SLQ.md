@@ -17,7 +17,11 @@ sino también modificar la base de datos (DB).
 **Ah! Ok y ¿qué es una Base de Datos (DB)?**
 
 Una base de datos puede ser relacional o no relacional, cuando hablamos de SQL, hablamos de bases de datos relacionales. Así, una base de datos es como un almacen de datos. La diferencia entre una 
-BD SQL y una BD NoSQL es que en las SQL se almacena la información como tablas y la NoSQL es NO tabular. La BD SQL es estructurada y la No SQL es no estructurada. Por decirlo de una forma simplificada:
+Base de Datos relacional (BD SQL) y una Base de Datos no Relacional (BD NoSQL) es que en las BD SQL almacenan la información como tablas y la BD NoSQL es NO tabular <<o sea, es otro formato, pero no tablas, luego entraremos a detalle>>. 
+
+
+La BD SQL es estructurada y la No SQL es no estructurada. 
+Por decirlo de una forma simplificada:
 en la primera hay orden y en la segunda no.
 
 Muy bien! Entonces SQL es un lenguaje de consulta que me permite ver qué hay en una base de datos y según los permisos, me deja modificar esa base de datos.
@@ -25,4 +29,6 @@ Muy bien! Entonces SQL es un lenguaje de consulta que me permite ver qué hay en
 
 Bueno, en esta parte empezamos con cositas, cositas buenas... no te desesperes si no entiendes a la primera, con calma.
 
-Existe algo llamado Gestores de Base de Datos 
+Existe algo llamado Gestores de Base de Datos y tú me dirás ¿Queeeee? Te explico:
+
+
